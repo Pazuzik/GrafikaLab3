@@ -14,3 +14,7 @@ Small project for a university class made in March 2022. Initially a monkey was 
 - C++
 - wxWidgets library
 - Visual Studio 
+
+# Launch
+
+You can run the project by opening the GrafikaLab3.exe file. The three PNG files must be in the same folder as the EXE file.
